@@ -1,0 +1,25 @@
+title: wallpeO
+originalAuthor: danimalforlife
+description: wallpeO-YEAH!
+
+assets:
+- name: remastered\obj\W_EX030.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030.mdlx\-0.dds
+- name: remastered\obj\W_EX030_NM.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX030_TR.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX030_WI.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030_WI.mdlx\-0.dds
+- name: remastered\itempic\item-080.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-080.imd\-0.dds
